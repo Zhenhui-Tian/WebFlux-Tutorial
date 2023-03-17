@@ -1,0 +1,23 @@
+
+h
+java:S4276
+"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ÚÃÇ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÉÛıÿÿÿÿ
+g
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(¦Ó®³
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦Ó®³
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÓ§£ÿÿÿÿÿ
+l
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(ÓÏòòıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°è­‡üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ö‡à‰ûÿÿÿÿ
+r
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(ØÒøèÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ò¤·é
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ¦Îä
+v
+java:S4276"YRefactor this code to use the more specialised Functional Interface 'IntFunction<String>'(£üÏ8Ö¡ºÕì0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œ÷ëÿúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×ÔÕÜùÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(»¹„Ş
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ü¿³ø8¾ÚºÕì0
